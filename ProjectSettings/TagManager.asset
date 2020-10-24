@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Out of Bounds
+  - Enemy
+  - Projectile
+  - Obstacle
+  - Cover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3552557527
+    locked: 0
+  - name: Decorations
+    uniqueID: 3249672627
+    locked: 0
+  - name: Buildings
+    uniqueID: 2264521305
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
